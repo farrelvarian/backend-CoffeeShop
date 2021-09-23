@@ -2,11 +2,27 @@
 
 Coffee Shop is a store that sells some good meals, and especially coffee. We provide high quality beans
 
+<p align='center'>
+   ·
+<a href="https://coffeeshop-sks.muchamadagushermawan.online/">Preview Website</a>
+   ·
+<a href="https://coffee.muchamadagushermawan.online/">Rest API</a> 
+   ·
+<a href="https://github.com/farrelvarian/coffee-shop">Repository Frontend</a> 
+   ·
+<a href="https://github.com/farrelvarian/backend-CoffeeShop/">Repository Backend</a> 
+   ·
+
 ## Built With
 
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=rounded-square)](https://expressjs.com/en/starter/installing.html)
 [![Node.js](https://img.shields.io/badge/Node.js-v.12.13-green.svg?style=rounded-square)](https://nodejs.org/)
 
+## Database Schema
+<p align='center'>
+  <span>
+      <image src='./screenshot/db.PNG' />
+    
 ## Requirements
 
 1. <a href="https://nodejs.org/en/download/">Node Js</a>
