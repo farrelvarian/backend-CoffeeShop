@@ -9,7 +9,7 @@ Coffee Shop is a store that sells some good meals, and especially coffee. We pro
 
 <p align='center'>
    ·
-<a href="https://coffeeshop-sks.muchamadagushermawan.online/">Preview Website</a>
+<a href="https://coffeeshopsks.mochamadrico.xyz/">Preview Website</a>
    ·
 <a href="https://coffee.muchamadagushermawan.online/">Rest API</a> 
    ·
